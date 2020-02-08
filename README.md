@@ -1,2 +1,2 @@
 # Machine-Learning
-Various projects performed in the class
+Using different algorithms through machine learning to predict fradulent firms
