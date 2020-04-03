@@ -1,2 +1,2 @@
 # Machine-Learning
-Using different algorithms through machine learning to predict fradulent firms
+The goal is to build a model that can predict the fraudulent firm on the basis of present and historical risk factors. Many risk factors are examined from various areas like past records of audit office, audit-paras, environmental conditions reports, firm reputation summary, on-going issues report, profit-value records, loss-value records, follow-up reports etc. Important risk factors are evaluated and their probability of existence is calculated from the present and past records.
